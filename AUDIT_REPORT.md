@@ -1,8 +1,14 @@
 # Smart Contract Audit Report – Vault System
 
-**Report Date:** April 13, 2026  
-**Auditor:** Ritik Verma
-**Status:** Final
+---
+
+## Report Metadata
+
+| Field        | Details           |
+|--------------|-------------------|
+| Report Date  | April 14, 2026    |
+| Auditor      | Ritik Verma       |
+| Status       | Final             |
 
 ---
 
@@ -400,8 +406,16 @@ All vulnerabilities have been remediated in the fixed version and validated agai
 
 **Recommendation:** Deploy `VaultFixed.sol` after comprehensive internal testing and additional security reviews. Consider formal verification and continuous monitoring in a production environment.
 
+
+
 ---
 
-**Report Prepared By:** Ritik Verma
-**Date:** April 13, 2026  
-**Classification:** Audit Report – Confidential
+## Report Metadata
+
+| Field              | Details                          |
+|--------------------|----------------------------------|
+| Report Prepared By | Ritik Verma                      |
+| Date               | April 14, 2026                   |
+| Classification     | Audit Report – Confidential      |
+
+---

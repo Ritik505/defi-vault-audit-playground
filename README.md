@@ -16,26 +16,26 @@ This project implements a simplified ETH vault where users can:
 . Implement secure fixes
 . Build a strong smart contract auditing foundation
 
+
 ## Project Structure
 
+```bash
 defi-vault-audit-playground/
-│
 ├── src/
 │   ├── Vault.sol
 │   ├── VaultFixed.sol
 │   └── Attack.sol
-│
 ├── test/
 │   ├── Vault.t.sol
 │   ├── VaultAttack.t.sol
 │   ├── ShareInflation.t.sol
 │   └── VaultFixed.t.sol
-│
 ├── lib/
 ├── script/
 ├── foundry.toml
 ├── AUDIT_REPORT.md
-└── README.md   
+└── README.md
+```
 
 
 Vulnerabilities Covered
